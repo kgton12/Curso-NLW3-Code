@@ -28,7 +28,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-    <property name="ts.external.directory.path" value="D:\Estudo JS\Curso-NLW3-Code\web\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\Estudo JS\Curso-NLW3-Code\backend\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,6 +42,7 @@
       <workItem from="1607000199251" duration="259000" />
       <workItem from="1607034233425" duration="526000" />
       <workItem from="1607467256887" duration="4533000" />
+      <workItem from="1607985343264" duration="1236000" />
     </task>
     <servers />
   </component>
